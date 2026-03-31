@@ -63,7 +63,9 @@ CCOc1ccc2nc(S(N)(=O)=O)sc2c1,0,0,...
 
 ## Pre-trained GNN Weights
 
+
 The pre-trained GIN weights are included in `model_gin/gin_supervised_contextpred.pth`, used when `--pretrained_bool True` (default).
+
 ---
 
 ## Environment Setup
